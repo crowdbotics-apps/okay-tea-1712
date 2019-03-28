@@ -1,0 +1,3 @@
+rootProject.name = 'okay_tea_1712'
+
+include ':app'
